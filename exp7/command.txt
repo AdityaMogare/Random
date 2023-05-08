@@ -1,0 +1,4 @@
+Sudo apt-get install flex
+lex lex.l
+gcc lex.yy.c
+./a.out
